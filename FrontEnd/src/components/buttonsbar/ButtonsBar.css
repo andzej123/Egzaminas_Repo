@@ -1,0 +1,31 @@
+.buttonBarButton {
+    background-color: #4f60df;
+    padding: 0.4em 0.7em;
+    border-radius: 8px;
+    margin: 1em 1em;
+    cursor: pointer;
+    border: none;
+    color: white;
+  }
+  
+  .buttonsBarBody {
+    text-align: center;
+    padding: 0.2em;
+  }
+  
+  .redButton {
+    border-radius: 10px;
+    border: 1px solid #4f60df;
+    background-color: #862121bf;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    margin: 0.2em 0;
+  }
+  
+  .padding-1em {
+    padding: 0.5em;
+  }
+  
+  
+  

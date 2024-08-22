@@ -1,0 +1,11 @@
+.singleOffer {
+  border: 1px solid black;
+  padding: 1em;
+  cursor: pointer;
+  margin: 1em;
+  max-width: 600px;
+}
+
+.singleOffer span {
+  font-weight: bold;
+}
